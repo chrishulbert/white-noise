@@ -7,71 +7,85 @@
       <title>Autumn Winds</title>
       <pubDate>Fri, 02 Oct 2026 14:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Autumn Winds.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/wind.jpg" />
     </item>
     <item>
       <title>Birth of a Supercell</title>
       <pubDate>Fri, 02 Oct 2026 13:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Birth of a Supercell.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/supercell.jpg" />
     </item>
     <item>
       <title>Caledonian Squalls</title>
       <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Caledonian Squalls.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/squall.jpg" />
     </item>
     <item>
       <title>Crackling Timber Catnap</title>
       <pubDate>Fri, 02 Oct 2026 11:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Crackling Timber Catnap.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/crackling.jpg" />
     </item>
     <item>
       <title>Distant Thunder Billows</title>
       <pubDate>Fri, 02 Oct 2026 10:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Distant Thunder Billows.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/thunder.jpg" />
     </item>
     <item>
       <title>Dreamshower</title>
       <pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Dreamshower.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/dreamshower.jpg" />
     </item>
     <item>
       <title>End of the Cavern</title>
       <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/End of the Cavern.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/cavern.jpg" />
     </item>
     <item>
       <title>Healing Storm</title>
       <pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Healing Storm.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/storm.jpg" />
     </item>
     <item>
       <title>Hillside Thunder</title>
       <pubDate>Fri, 02 Oct 2026 06:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Hillside Thunder.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/hills.jpg" />
     </item>
     <item>
       <title>Mountain Valley Breezes</title>
       <pubDate>Fri, 02 Oct 2026 05:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Mountain Valley Breezes.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/valley.jpg" />
     </item>
     <item>
       <title>Ocean Breeze</title>
       <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Ocean Breeze.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/ocean.jpg" />
     </item>
     <item>
       <title>Rain on the River</title>
       <pubDate>Fri, 02 Oct 2026 03:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Rain on the River.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/river.jpg" />
     </item>
     <item>
       <title>Rolling Surf</title>
       <pubDate>Fri, 02 Oct 2026 02:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Rolling Surf.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/surf.jpg" />
     </item>
     <item>
       <title>Sleepy Jungle Slumber</title>
       <pubDate>Fri, 02 Oct 2026 01:00:00 +0000</pubDate>
       <enclosure url="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/Sleepy Jungle Slumber.mp3" type="audio/mpeg"/>
+      <itunes:image href="https://github.com/chrishulbert/white-noise/raw/refs/heads/main/jungle.jpg" />
     </item>
   </channel>
 </rss>
